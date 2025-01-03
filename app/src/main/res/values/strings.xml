@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RestauranReview</string>
+
+
+    <string name="title">RestauranReview</string>
+    <string name="description">RestauranReview</string>
+    <string name="review">RestauranReview</string>
+    <string name="write_your_review">RestauranReview</string>
+    <string name="send">Send Review</string>
+
+
+    <string name="move_activity_with_data">Develover</string>
+    <string name="data_received">Data Received</string>
+
+</resources>
