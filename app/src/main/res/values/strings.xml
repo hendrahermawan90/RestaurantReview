@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name">RestauranReview</string>
+    <string name="app_name">RestaurantReview</string>
 
 
-    <string name="title">RestauranReview</string>
-    <string name="description">RestauranReview</string>
-    <string name="review">RestauranReview</string>
-    <string name="write_your_review">RestauranReview</string>
+    <string name="title">RestaurantReview</string>
+    <string name="description">RestaurantReview</string>
+    <string name="review">RestaurantReview</string>
+    <string name="write_your_review">RestaurantReview</string>
     <string name="send">Send Review</string>
 
 
-    <string name="move_activity_with_data">Develover</string>
+    <string name="move_activity_with_data">Developer</string>
     <string name="data_received">Data Received</string>
 
 </resources>
